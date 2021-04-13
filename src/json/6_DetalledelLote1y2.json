@@ -1,0 +1,662 @@
+[
+  {
+    "SIST_ORIGEN": "A/X",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "ALEJANDRO JORGE TRIPOLI BOLSA",
+    "N_DOCS": 150,
+    "MONEDA": "SOL",
+    "TOTAL": "18.69",
+    "RETENCION": 0.56,
+    "NETO": "18.13"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "SEGUNDO VICENTE TORRES TIRADO",
+    "N_DOCS": 100,
+    "MONEDA": "SOL",
+    "TOTAL": "211.81",
+    "RETENCION": 6.35,
+    "NETO": "205.46"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "DISTRIBUCIONES JF PACHECO S.A.C.",
+    "N_DOCS": 120,
+    "MONEDA": "DOL",
+    "TOTAL": "578.34",
+    "RETENCION": 0,
+    "NETO": "578.34"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "COSAPI S A",
+    "N_DOCS": 90,
+    "MONEDA": "DOL",
+    "TOTAL": "156.71",
+    "RETENCION": 4.7,
+    "NETO": "152.01"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "AJUSTADORES",
+    "BENEFICIARIO": "MARCO ANTONIO NOVOA ARRUE",
+    "N_DOCS": 5,
+    "MONEDA": "SOL",
+    "TOTAL": "236.00",
+    "RETENCION": 0,
+    "NETO": "236.00"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "BEATRIZ ROXANA BECERRA GAMERO",
+    "N_DOCS": 2,
+    "MONEDA": "SOL",
+    "TOTAL": "7,374.24",
+    "RETENCION": 0,
+    "NETO": "7,374.24"
+  },
+  {
+    "SIST_ORIGEN": "A/X",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "ROSA ISABEL NAVARRO ROJAS",
+    "N_DOCS": 150,
+    "MONEDA": "SOL",
+    "TOTAL": "18.69",
+    "RETENCION": 0.56,
+    "NETO": "18.13"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "OSCAR GARCIA RODRIGUEZ",
+    "N_DOCS": 100,
+    "MONEDA": "SOL",
+    "TOTAL": "211.81",
+    "RETENCION": 6.35,
+    "NETO": "205.46"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "OSCAR JUAN PORRAS AGUIRRE",
+    "N_DOCS": 120,
+    "MONEDA": "DOL",
+    "TOTAL": "578.34",
+    "RETENCION": 0,
+    "NETO": "578.34"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "LUIS ALBERTO VARGAS ARAUJO",
+    "N_DOCS": 90,
+    "MONEDA": "DOL",
+    "TOTAL": "156.71",
+    "RETENCION": 4.7,
+    "NETO": "152.01"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "AJUSTADORES",
+    "BENEFICIARIO": "JORGE CHAVEZ ZAVALETA",
+    "N_DOCS": 5,
+    "MONEDA": "SOL",
+    "TOTAL": "236.00",
+    "RETENCION": 0,
+    "NETO": "236.00"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "BRUNO DENIS RENE LOCATELLI ",
+    "N_DOCS": 2,
+    "MONEDA": "SOL",
+    "TOTAL": "7,374.24",
+    "RETENCION": 0,
+    "NETO": "7,374.24"
+  },
+  {
+    "SIST_ORIGEN": "A/X",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "ENRIQUE D. SILVA TAPIA",
+    "N_DOCS": 150,
+    "MONEDA": "SOL",
+    "TOTAL": "18.69",
+    "RETENCION": 0.56,
+    "NETO": "18.13"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "MIRTHA GIANNINA BONDY RANGEL",
+    "N_DOCS": 100,
+    "MONEDA": "SOL",
+    "TOTAL": "211.81",
+    "RETENCION": 6.35,
+    "NETO": "205.46"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "CARMEN ROSALIA MARTINEZ RAMIREZ",
+    "N_DOCS": 120,
+    "MONEDA": "DOL",
+    "TOTAL": "578.34",
+    "RETENCION": 0,
+    "NETO": "578.34"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "EMBAJADA DEL REINO DE MARRUECOS",
+    "N_DOCS": 90,
+    "MONEDA": "DOL",
+    "TOTAL": "156.71",
+    "RETENCION": 4.7,
+    "NETO": "152.01"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "AJUSTADORES",
+    "BENEFICIARIO": "DANIELA SOLEDAD NUÑEZ WALDE",
+    "N_DOCS": 5,
+    "MONEDA": "SOL",
+    "TOTAL": "236.00",
+    "RETENCION": 0,
+    "NETO": "236.00"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "ROSA VILMA ORTIZ ÑAUINRIPA",
+    "N_DOCS": 150,
+    "MONEDA": "SOL",
+    "TOTAL": "7,374.24",
+    "RETENCION": 0,
+    "NETO": "7,374.24"
+  },
+  {
+    "SIST_ORIGEN": "A/X",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "OSCAR GARCIA RODRIGUEZ",
+    "N_DOCS": 100,
+    "MONEDA": "SOL",
+    "TOTAL": "18.69",
+    "RETENCION": 0.56,
+    "NETO": "18.13"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "MIGUEL OSCAR ROSADIO ROJAS",
+    "N_DOCS": 120,
+    "MONEDA": "SOL",
+    "TOTAL": "211.81",
+    "RETENCION": 6.35,
+    "NETO": "205.46"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "TRANSSERVIS ISASI S.A.C.",
+    "N_DOCS": 90,
+    "MONEDA": "DOL",
+    "TOTAL": "578.34",
+    "RETENCION": 0,
+    "NETO": "578.34"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "MARCO JUNIOR CORDOVA VILLALOBOS",
+    "N_DOCS": 5,
+    "MONEDA": "DOL",
+    "TOTAL": "156.71",
+    "RETENCION": 4.7,
+    "NETO": "152.01"
+  },
+  {
+    "SIST_ORIGEN": "A/X",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "ALEJANDRO JORGE TRIPOLI BOLSA",
+    "N_DOCS": 150,
+    "MONEDA": "SOL",
+    "TOTAL": "18.69",
+    "RETENCION": 0.56,
+    "NETO": "18.13"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "SEGUNDO VICENTE TORRES TIRADO",
+    "N_DOCS": 100,
+    "MONEDA": "SOL",
+    "TOTAL": "211.81",
+    "RETENCION": 6.35,
+    "NETO": "205.46"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "DISTRIBUCIONES JF PACHECO S.A.C.",
+    "N_DOCS": 120,
+    "MONEDA": "DOL",
+    "TOTAL": "578.34",
+    "RETENCION": 0,
+    "NETO": "578.34"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "COSAPI S A",
+    "N_DOCS": 90,
+    "MONEDA": "DOL",
+    "TOTAL": "156.71",
+    "RETENCION": 4.7,
+    "NETO": "152.01"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "AJUSTADORES",
+    "BENEFICIARIO": "MARCO ANTONIO NOVOA ARRUE",
+    "N_DOCS": 5,
+    "MONEDA": "SOL",
+    "TOTAL": "236.00",
+    "RETENCION": 0,
+    "NETO": "236.00"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "BEATRIZ ROXANA BECERRA GAMERO",
+    "N_DOCS": 2,
+    "MONEDA": "SOL",
+    "TOTAL": "7,374.24",
+    "RETENCION": 0,
+    "NETO": "7,374.24"
+  },
+  {
+    "SIST_ORIGEN": "A/X",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "ROSA ISABEL NAVARRO ROJAS",
+    "N_DOCS": 150,
+    "MONEDA": "SOL",
+    "TOTAL": "18.69",
+    "RETENCION": 0.56,
+    "NETO": "18.13"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "OSCAR GARCIA RODRIGUEZ",
+    "N_DOCS": 100,
+    "MONEDA": "SOL",
+    "TOTAL": "211.81",
+    "RETENCION": 6.35,
+    "NETO": "205.46"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "OSCAR JUAN PORRAS AGUIRRE",
+    "N_DOCS": 120,
+    "MONEDA": "DOL",
+    "TOTAL": "578.34",
+    "RETENCION": 0,
+    "NETO": "578.34"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "LUIS ALBERTO VARGAS ARAUJO",
+    "N_DOCS": 90,
+    "MONEDA": "DOL",
+    "TOTAL": "156.71",
+    "RETENCION": 4.7,
+    "NETO": "152.01"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "AJUSTADORES",
+    "BENEFICIARIO": "JORGE CHAVEZ ZAVALETA",
+    "N_DOCS": 5,
+    "MONEDA": "SOL",
+    "TOTAL": "236.00",
+    "RETENCION": 0,
+    "NETO": "236.00"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "BRUNO DENIS RENE LOCATELLI ",
+    "N_DOCS": 2,
+    "MONEDA": "SOL",
+    "TOTAL": "7,374.24",
+    "RETENCION": 0,
+    "NETO": "7,374.24"
+  },
+  {
+    "SIST_ORIGEN": "A/X",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "ENRIQUE D. SILVA TAPIA",
+    "N_DOCS": 150,
+    "MONEDA": "SOL",
+    "TOTAL": "18.69",
+    "RETENCION": 0.56,
+    "NETO": "18.13"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "MIRTHA GIANNINA BONDY RANGEL",
+    "N_DOCS": 100,
+    "MONEDA": "SOL",
+    "TOTAL": "211.81",
+    "RETENCION": 6.35,
+    "NETO": "205.46"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "CARMEN ROSALIA MARTINEZ RAMIREZ",
+    "N_DOCS": 120,
+    "MONEDA": "DOL",
+    "TOTAL": "578.34",
+    "RETENCION": 0,
+    "NETO": "578.34"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "EMBAJADA DEL REINO DE MARRUECOS",
+    "N_DOCS": 90,
+    "MONEDA": "DOL",
+    "TOTAL": "156.71",
+    "RETENCION": 4.7,
+    "NETO": "152.01"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "AJUSTADORES",
+    "BENEFICIARIO": "DANIELA SOLEDAD NUÑEZ WALDE",
+    "N_DOCS": 5,
+    "MONEDA": "SOL",
+    "TOTAL": "236.00",
+    "RETENCION": 0,
+    "NETO": "236.00"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "ROSA VILMA ORTIZ ÑAUINRIPA",
+    "N_DOCS": 150,
+    "MONEDA": "SOL",
+    "TOTAL": "7,374.24",
+    "RETENCION": 0,
+    "NETO": "7,374.24"
+  },
+  {
+    "SIST_ORIGEN": "A/X",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "OSCAR GARCIA RODRIGUEZ",
+    "N_DOCS": 100,
+    "MONEDA": "SOL",
+    "TOTAL": "18.69",
+    "RETENCION": 0.56,
+    "NETO": "18.13"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "MIGUEL OSCAR ROSADIO ROJAS",
+    "N_DOCS": 120,
+    "MONEDA": "SOL",
+    "TOTAL": "211.81",
+    "RETENCION": 6.35,
+    "NETO": "205.46"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "TRANSSERVIS ISASI S.A.C.",
+    "N_DOCS": 90,
+    "MONEDA": "DOL",
+    "TOTAL": "578.34",
+    "RETENCION": 0,
+    "NETO": "578.34"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "MARCO JUNIOR CORDOVA VILLALOBOS",
+    "N_DOCS": 5,
+    "MONEDA": "DOL",
+    "TOTAL": "156.71",
+    "RETENCION": 4.7,
+    "NETO": "152.01"
+  },
+  {
+    "SIST_ORIGEN": "A/X",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "ALEJANDRO JORGE TRIPOLI BOLSA",
+    "N_DOCS": 150,
+    "MONEDA": "SOL",
+    "TOTAL": "18.69",
+    "RETENCION": 0.56,
+    "NETO": "18.13"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "SEGUNDO VICENTE TORRES TIRADO",
+    "N_DOCS": 100,
+    "MONEDA": "SOL",
+    "TOTAL": "211.81",
+    "RETENCION": 6.35,
+    "NETO": "205.46"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "DISTRIBUCIONES JF PACHECO S.A.C.",
+    "N_DOCS": 120,
+    "MONEDA": "DOL",
+    "TOTAL": "578.34",
+    "RETENCION": 0,
+    "NETO": "578.34"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "COSAPI S A",
+    "N_DOCS": 90,
+    "MONEDA": "DOL",
+    "TOTAL": "156.71",
+    "RETENCION": 4.7,
+    "NETO": "152.01"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "AJUSTADORES",
+    "BENEFICIARIO": "MARCO ANTONIO NOVOA ARRUE",
+    "N_DOCS": 5,
+    "MONEDA": "SOL",
+    "TOTAL": "236.00",
+    "RETENCION": 0,
+    "NETO": "236.00"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "BEATRIZ ROXANA BECERRA GAMERO",
+    "N_DOCS": 2,
+    "MONEDA": "SOL",
+    "TOTAL": "7,374.24",
+    "RETENCION": 0,
+    "NETO": "7,374.24"
+  },
+  {
+    "SIST_ORIGEN": "A/X",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "ROSA ISABEL NAVARRO ROJAS",
+    "N_DOCS": 150,
+    "MONEDA": "SOL",
+    "TOTAL": "18.69",
+    "RETENCION": 0.56,
+    "NETO": "18.13"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "OSCAR GARCIA RODRIGUEZ",
+    "N_DOCS": 100,
+    "MONEDA": "SOL",
+    "TOTAL": "211.81",
+    "RETENCION": 6.35,
+    "NETO": "205.46"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "OSCAR JUAN PORRAS AGUIRRE",
+    "N_DOCS": 120,
+    "MONEDA": "DOL",
+    "TOTAL": "578.34",
+    "RETENCION": 0,
+    "NETO": "578.34"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "LUIS ALBERTO VARGAS ARAUJO",
+    "N_DOCS": 90,
+    "MONEDA": "DOL",
+    "TOTAL": "156.71",
+    "RETENCION": 4.7,
+    "NETO": "152.01"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "AJUSTADORES",
+    "BENEFICIARIO": "JORGE CHAVEZ ZAVALETA",
+    "N_DOCS": 5,
+    "MONEDA": "SOL",
+    "TOTAL": "236.00",
+    "RETENCION": 0,
+    "NETO": "236.00"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "BRUNO DENIS RENE LOCATELLI ",
+    "N_DOCS": 2,
+    "MONEDA": "SOL",
+    "TOTAL": "7,374.24",
+    "RETENCION": 0,
+    "NETO": "7,374.24"
+  },
+  {
+    "SIST_ORIGEN": "A/X",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "ENRIQUE D. SILVA TAPIA",
+    "N_DOCS": 150,
+    "MONEDA": "SOL",
+    "TOTAL": "18.69",
+    "RETENCION": 0.56,
+    "NETO": "18.13"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "MIRTHA GIANNINA BONDY RANGEL",
+    "N_DOCS": 100,
+    "MONEDA": "SOL",
+    "TOTAL": "211.81",
+    "RETENCION": 6.35,
+    "NETO": "205.46"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "CARMEN ROSALIA MARTINEZ RAMIREZ",
+    "N_DOCS": 120,
+    "MONEDA": "DOL",
+    "TOTAL": "578.34",
+    "RETENCION": 0,
+    "NETO": "578.34"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "EMBAJADA DEL REINO DE MARRUECOS",
+    "N_DOCS": 90,
+    "MONEDA": "DOL",
+    "TOTAL": "156.71",
+    "RETENCION": 4.7,
+    "NETO": "152.01"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "AJUSTADORES",
+    "BENEFICIARIO": "DANIELA SOLEDAD NUÑEZ WALDE",
+    "N_DOCS": 5,
+    "MONEDA": "SOL",
+    "TOTAL": "236.00",
+    "RETENCION": 0,
+    "NETO": "236.00"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "ROSA VILMA ORTIZ ÑAUINRIPA",
+    "N_DOCS": 150,
+    "MONEDA": "SOL",
+    "TOTAL": "7,374.24",
+    "RETENCION": 0,
+    "NETO": "7,374.24"
+  },
+  {
+    "SIST_ORIGEN": "A/X",
+    "GRUPO_PAGO": "TALLERES",
+    "BENEFICIARIO": "OSCAR GARCIA RODRIGUEZ",
+    "N_DOCS": 100,
+    "MONEDA": "SOL",
+    "TOTAL": "18.69",
+    "RETENCION": 0.56,
+    "NETO": "18.13"
+  },
+  {
+    "SIST_ORIGEN": "A/X - ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "MIGUEL OSCAR ROSADIO ROJAS",
+    "N_DOCS": 120,
+    "MONEDA": "SOL",
+    "TOTAL": "211.81",
+    "RETENCION": 6.35,
+    "NETO": "205.46"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "TRANSSERVIS ISASI S.A.C.",
+    "N_DOCS": 90,
+    "MONEDA": "DOL",
+    "TOTAL": "578.34",
+    "RETENCION": 0,
+    "NETO": "578.34"
+  },
+  {
+    "SIST_ORIGEN": "ERP",
+    "GRUPO_PAGO": "PROVEEDORES SINIESTROS",
+    "BENEFICIARIO": "MARCO JUNIOR CORDOVA VILLALOBOS",
+    "N_DOCS": 5,
+    "MONEDA": "DOL",
+    "TOTAL": "156.71",
+    "RETENCION": 4.7,
+    "NETO": "152.01"
+  }
+]

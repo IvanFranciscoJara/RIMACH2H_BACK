@@ -1,0 +1,857 @@
+[
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X",
+    "GRUPO PAGO": "TALLERES",
+    "BANCO": "BBVA",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "ALEJANDRO JORGE TRIPOLI BOLSA",
+    "#DOCS": "150",
+    "MONEDA": "SOL",
+    "TOTAL": "18.69",
+    "RETENCIÓN": "0.56",
+    "NETO": "18.13",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X - ERP",
+    "GRUPO PAGO": "PROVEEDORES SINIESTROS",
+    "BANCO": "BCP",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "SEGUNDO VICENTE TORRES TIRADO",
+    "#DOCS": "100",
+    "MONEDA": "SOL",
+    "TOTAL": "211.81",
+    "RETENCIÓN": "6.35",
+    "NETO": "205.46",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "PROVEEDORES SINIESTROS",
+    "BANCO": "INTBK",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "DISTRIBUCIONES JF PACHECO S.A.C.",
+    "#DOCS": "120",
+    "MONEDA": "DOL",
+    "TOTAL": "578.34",
+    "RETENCIÓN": "0.00",
+    "NETO": "578.34",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "PROVEEDORES SINIESTROS",
+    "BANCO": "CITI",
+    "CTA. CARGO": "110816340209306000",
+    "BENEFICIARIO": "COSAPI S A",
+    "#DOCS": "90",
+    "MONEDA": "DOL",
+    "TOTAL": "156.71",
+    "RETENCIÓN": "4.70",
+    "NETO": "152.01",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X - ERP",
+    "GRUPO PAGO": "AJUSTADORES",
+    "BANCO": "BNAC",
+    "CTA. CARGO": "110816340209306000",
+    "BENEFICIARIO": "MARCO ANTONIO NOVOA ARRUE",
+    "#DOCS": "5",
+    "MONEDA": "SOL",
+    "TOTAL": "236.00",
+    "RETENCIÓN": "0.00",
+    "NETO": "236.00",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "TALLERES",
+    "BANCO": "SCTBK",
+    "CTA. CARGO": "110113220200343000",
+    "BENEFICIARIO": "BEATRIZ ROXANA BECERRA GAMERO",
+    "#DOCS": "2",
+    "MONEDA": "SOL",
+    "TOTAL": "7,374.24",
+    "RETENCIÓN": "0.00",
+    "NETO": "7,374.24",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X",
+    "GRUPO PAGO": "TALLERES",
+    "BANCO": "BBVA",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "ROSA ISABEL NAVARRO ROJAS",
+    "#DOCS": "150",
+    "MONEDA": "SOL",
+    "TOTAL": "18.69",
+    "RETENCIÓN": "0.56",
+    "NETO": "18.13",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X - ERP",
+    "GRUPO PAGO": "PROVEEDORES SINIESTROS",
+    "BANCO": "BCP",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "OSCAR GARCIA RODRIGUEZ",
+    "#DOCS": "100",
+    "MONEDA": "SOL",
+    "TOTAL": "211.81",
+    "RETENCIÓN": "6.35",
+    "NETO": "205.46",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "PROVEEDORES SINIESTROS",
+    "BANCO": "INTBK",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "OSCAR JUAN PORRAS AGUIRRE",
+    "#DOCS": "120",
+    "MONEDA": "DOL",
+    "TOTAL": "578.34",
+    "RETENCIÓN": "0.00",
+    "NETO": "578.34",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "PROVEEDORES SINIESTROS",
+    "BANCO": "CITI",
+    "CTA. CARGO": "110816340209306000",
+    "BENEFICIARIO": "LUIS ALBERTO VARGAS ARAUJO",
+    "#DOCS": "90",
+    "MONEDA": "DOL",
+    "TOTAL": "156.71",
+    "RETENCIÓN": "4.70",
+    "NETO": "152.01",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X - ERP",
+    "GRUPO PAGO": "AJUSTADORES",
+    "BANCO": "BNAC",
+    "CTA. CARGO": "110816340209306000",
+    "BENEFICIARIO": "JORGE CHAVEZ ZAVALETA",
+    "#DOCS": "5",
+    "MONEDA": "SOL",
+    "TOTAL": "236.00",
+    "RETENCIÓN": "0.00",
+    "NETO": "236.00",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "TALLERES",
+    "BANCO": "SCTBK",
+    "CTA. CARGO": "110113220200343000",
+    "BENEFICIARIO": "BRUNO DENIS RENE LOCATELLI ",
+    "#DOCS": "2",
+    "MONEDA": "SOL",
+    "TOTAL": "7,374.24",
+    "RETENCIÓN": "0.00",
+    "NETO": "7,374.24",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X",
+    "GRUPO PAGO": "TALLERES",
+    "BANCO": "BBVA",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "ENRIQUE D. SILVA TAPIA",
+    "#DOCS": "150",
+    "MONEDA": "SOL",
+    "TOTAL": "18.69",
+    "RETENCIÓN": "0.56",
+    "NETO": "18.13",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X - ERP",
+    "GRUPO PAGO": "PROVEEDORES SINIESTROS",
+    "BANCO": "BCP",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "MIRTHA GIANNINA BONDY RANGEL",
+    "#DOCS": "100",
+    "MONEDA": "SOL",
+    "TOTAL": "211.81",
+    "RETENCIÓN": "6.35",
+    "NETO": "205.46",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "PROVEEDORES SINIESTROS",
+    "BANCO": "INTBK",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "CARMEN ROSALIA MARTINEZ RAMIREZ",
+    "#DOCS": "120",
+    "MONEDA": "DOL",
+    "TOTAL": "578.34",
+    "RETENCIÓN": "0.00",
+    "NETO": "578.34",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "PROVEEDORES SINIESTROS",
+    "BANCO": "CITI",
+    "CTA. CARGO": "110816340209306000",
+    "BENEFICIARIO": "EMBAJADA DEL REINO DE MARRUECOS",
+    "#DOCS": "90",
+    "MONEDA": "DOL",
+    "TOTAL": "156.71",
+    "RETENCIÓN": "4.70",
+    "NETO": "152.01",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X - ERP",
+    "GRUPO PAGO": "AJUSTADORES",
+    "BANCO": "BNAC",
+    "CTA. CARGO": "110816340209306000",
+    "BENEFICIARIO": "DANIELA SOLEDAD NUÑEZ WALDE",
+    "#DOCS": "5",
+    "MONEDA": "SOL",
+    "TOTAL": "236.00",
+    "RETENCIÓN": "0.00",
+    "NETO": "236.00",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "TALLERES",
+    "BANCO": "SCTBK",
+    "CTA. CARGO": "110113220200343000",
+    "BENEFICIARIO": "ROSA VILMA ORTIZ ÑAUINRIPA",
+    "#DOCS": "150",
+    "MONEDA": "SOL",
+    "TOTAL": "7,374.24",
+    "RETENCIÓN": "0.00",
+    "NETO": "7,374.24",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X",
+    "GRUPO PAGO": "TALLERES",
+    "BANCO": "BBVA",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "OSCAR GARCIA RODRIGUEZ",
+    "#DOCS": "100",
+    "MONEDA": "SOL",
+    "TOTAL": "18.69",
+    "RETENCIÓN": "0.56",
+    "NETO": "18.13",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X - ERP",
+    "GRUPO PAGO": "PROVEEDORES SINIESTROS",
+    "BANCO": "BCP",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "MIGUEL OSCAR ROSADIO ROJAS",
+    "#DOCS": "120",
+    "MONEDA": "SOL",
+    "TOTAL": "211.81",
+    "RETENCIÓN": "6.35",
+    "NETO": "205.46",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "PROVEEDORES SINIESTROS",
+    "BANCO": "INTBK",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "TRANSSERVIS ISASI S.A.C.",
+    "#DOCS": "90",
+    "MONEDA": "DOL",
+    "TOTAL": "578.34",
+    "RETENCIÓN": "0.00",
+    "NETO": "578.34",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "PROVEEDORES SINIESTROS",
+    "BANCO": "CITI",
+    "CTA. CARGO": "110816340209306000",
+    "BENEFICIARIO": "MARCO JUNIOR CORDOVA VILLALOBOS",
+    "#DOCS": "5",
+    "MONEDA": "DOL",
+    "TOTAL": "156.71",
+    "RETENCIÓN": "4.70",
+    "NETO": "152.01",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X - ERP",
+    "GRUPO PAGO": "AJUSTADORES",
+    "BANCO": "BNAC",
+    "CTA. CARGO": "110816340209306000",
+    "BENEFICIARIO": "JHON ROBERTH AURES TUBILLAS",
+    "#DOCS": "2",
+    "MONEDA": "SOL",
+    "TOTAL": "236.00",
+    "RETENCIÓN": "0.00",
+    "NETO": "236.00",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "TALLERES",
+    "BANCO": "SCTBK",
+    "CTA. CARGO": "110113220200343000",
+    "BENEFICIARIO": "OSCAR JUAN PORRAS AGUIRRE",
+    "#DOCS": "150",
+    "MONEDA": "SOL",
+    "TOTAL": "7,374.24",
+    "RETENCIÓN": "0.00",
+    "NETO": "7,374.24",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X",
+    "GRUPO PAGO": "TALLERES",
+    "BANCO": "BBVA",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "ANGEL YURI AMASIFUEN CORREA",
+    "#DOCS": "100",
+    "MONEDA": "SOL",
+    "TOTAL": "156.71",
+    "RETENCIÓN": "4.70",
+    "NETO": "152.01",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X - ERP",
+    "GRUPO PAGO": "PROVEEDORES SINIESTROS",
+    "BANCO": "BCP",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "METALGAS PERU S.A.C.",
+    "#DOCS": "120",
+    "MONEDA": "DOL",
+    "TOTAL": "236.00",
+    "RETENCIÓN": "0.00",
+    "NETO": "236.00",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "CLIENTES VARIOS",
+    "BANCO": "INTBK",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "AHEAD SOLUTIONS SOCIEDAD ANONIMA CERRADA",
+    "#DOCS": "90",
+    "MONEDA": "DOL",
+    "TOTAL": "7,374.24",
+    "RETENCIÓN": "0.00",
+    "NETO": "7,374.24",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "CLIENTES VARIOS",
+    "BANCO": "CITI",
+    "CTA. CARGO": "110816340209306000",
+    "BENEFICIARIO": "JOSEFINA BARRON MIFFLIN",
+    "#DOCS": "5",
+    "MONEDA": "SOL",
+    "TOTAL": "18.69",
+    "RETENCIÓN": "0.56",
+    "NETO": "18.13",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X - ERP",
+    "GRUPO PAGO": "CLIENTES",
+    "BANCO": "BNAC",
+    "CTA. CARGO": "110816340209306000",
+    "BENEFICIARIO": "SERVICIOS ODONTOLOGICOS SATHYA EIRL",
+    "#DOCS": "2",
+    "MONEDA": "SOL",
+    "TOTAL": "211.81",
+    "RETENCIÓN": "6.35",
+    "NETO": "205.46",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "CLIENTES VARIOS",
+    "BANCO": "SCTBK",
+    "CTA. CARGO": "110113220200343000",
+    "BENEFICIARIO": "SERVICIOS ODONTOLOGICOS SATHYA EIRL",
+    "#DOCS": "150",
+    "MONEDA": "SOL",
+    "TOTAL": "578.34",
+    "RETENCIÓN": "0.00",
+    "NETO": "578.34",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X",
+    "GRUPO PAGO": "CLIENTES VARIOS",
+    "BANCO": "BBVA",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "SERVICIOS ODONTOLOGICOS SATHYA EIRL",
+    "#DOCS": "100",
+    "MONEDA": "SOL",
+    "TOTAL": "156.71",
+    "RETENCIÓN": "4.70",
+    "NETO": "152.01",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X - ERP",
+    "GRUPO PAGO": "CLIENTES VARIOS",
+    "BANCO": "BCP",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "RAMIRO TAPIA AVENDAÑO",
+    "#DOCS": "120",
+    "MONEDA": "DOL",
+    "TOTAL": "236.00",
+    "RETENCIÓN": "0.00",
+    "NETO": "236.00",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "CLIENTES",
+    "BANCO": "INTBK",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "SERVICIOS ODONTOLOGICOS SATHYA EIRL",
+    "#DOCS": "90",
+    "MONEDA": "DOL",
+    "TOTAL": "7,374.24",
+    "RETENCIÓN": "0.00",
+    "NETO": "7,374.24",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "CLINICAS Y SINIESTROS DE CAPITACION",
+    "BANCO": "CITI",
+    "CTA. CARGO": "110816340209306000",
+    "BENEFICIARIO": "MARCO ANTONIO HUACO PALOMINO",
+    "#DOCS": "5",
+    "MONEDA": "SOL",
+    "TOTAL": "18.69",
+    "RETENCIÓN": "0.56",
+    "NETO": "18.13",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X - ERP",
+    "GRUPO PAGO": "CLINICAS Y SINIESTROS DE CAPITACION",
+    "BANCO": "BNAC",
+    "CTA. CARGO": "110816340209306000",
+    "BENEFICIARIO": "CESAR ALBERTO DELGADO CASTILLO",
+    "#DOCS": "2",
+    "MONEDA": "SOL",
+    "TOTAL": "211.81",
+    "RETENCIÓN": "6.35",
+    "NETO": "205.46",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "CLINICAS Y SINIESTROS DE CAPITACION",
+    "BANCO": "SCTBK",
+    "CTA. CARGO": "110113220200343000",
+    "BENEFICIARIO": "AUSBERTO RICARDO TRIVIÑO CARRANZA",
+    "#DOCS": "150",
+    "MONEDA": "SOL",
+    "TOTAL": "156.71",
+    "RETENCIÓN": "4.70",
+    "NETO": "152.01",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X",
+    "GRUPO PAGO": "CLIENTES",
+    "BANCO": "BBVA",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "MARCO ANTONIO HUACO PALOMINO",
+    "#DOCS": "2",
+    "MONEDA": "SOL",
+    "TOTAL": "236.00",
+    "RETENCIÓN": "0.00",
+    "NETO": "236.00",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X - ERP",
+    "GRUPO PAGO": "CLINICAS Y SINIESTROS DE CAPITACION",
+    "BANCO": "BCP",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "SERVICIOS ODONTOLOGICOS SATHYA EIRL",
+    "#DOCS": "150",
+    "MONEDA": "SOL",
+    "TOTAL": "7,374.24",
+    "RETENCIÓN": "0.00",
+    "NETO": "7,374.24",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "CLIENTES",
+    "BANCO": "INTBK",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "AUSBERTO RICARDO TRIVIÑO CARRANZA",
+    "#DOCS": "100",
+    "MONEDA": "SOL",
+    "TOTAL": "18.69",
+    "RETENCIÓN": "0.56",
+    "NETO": "18.13",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "CLIENTES",
+    "BANCO": "CITI",
+    "CTA. CARGO": "110816340209306000",
+    "BENEFICIARIO": "MARIA CRISTINA ZAMBRANO RODRIGUEZ",
+    "#DOCS": "120",
+    "MONEDA": "DOL",
+    "TOTAL": "211.81",
+    "RETENCIÓN": "6.35",
+    "NETO": "205.46",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X - ERP",
+    "GRUPO PAGO": "CLIENTES",
+    "BANCO": "BNAC",
+    "CTA. CARGO": "110816340209306000",
+    "BENEFICIARIO": "JOSEPH EMILIO VERA SANCHEZ",
+    "#DOCS": "90",
+    "MONEDA": "DOL",
+    "TOTAL": "578.34",
+    "RETENCIÓN": "0.00",
+    "NETO": "578.34",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "CLIENTES",
+    "BANCO": "SCTBK",
+    "CTA. CARGO": "110113220200343000",
+    "BENEFICIARIO": "ROCIO IRMA FERNANDEZ RODRIGUEZ",
+    "#DOCS": "5",
+    "MONEDA": "SOL",
+    "TOTAL": "156.71",
+    "RETENCIÓN": "4.70",
+    "NETO": "152.01",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X",
+    "GRUPO PAGO": "CLINICAS Y SINIESTROS DE CAPITACION",
+    "BANCO": "BBVA",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "FELIPE TEODORO BARCLAY PIAZZA",
+    "#DOCS": "150",
+    "MONEDA": "SOL",
+    "TOTAL": "236.00",
+    "RETENCIÓN": "0.00",
+    "NETO": "236.00",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "EPS",
+    "SIST. ORIGEN": "A/X - ERP",
+    "GRUPO PAGO": "PROVEEDORES SINIESTROS",
+    "BANCO": "BCP",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "MARIA CATALINA LOPEZ PAEZ",
+    "#DOCS": "100",
+    "MONEDA": "SOL",
+    "TOTAL": "7,374.24",
+    "RETENCIÓN": "0.00",
+    "NETO": "7,374.24",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  },
+  {
+    "COMPAÑIA": "SEGUROS",
+    "SIST. ORIGEN": "ERP",
+    "GRUPO PAGO": "PROVEEDORES SINIESTROS",
+    "BANCO": "INTBK",
+    "CTA. CARGO": "110119540200288000",
+    "BENEFICIARIO": "SERVICIOS ODONTOLOGICOS SATHYA EIRL",
+    "#DOCS": "120",
+    "MONEDA": "SOL",
+    "TOTAL": "18.69",
+    "RETENCIÓN": "0.56",
+    "NETO": "18.13",
+    "ESTADO": [
+      { "E": 1, "C": 20 },
+      { "E": 2, "C": 50 },
+      { "E": 3, "C": 10 },
+      { "E": 4, "C": 15 }
+    ]
+  }
+]

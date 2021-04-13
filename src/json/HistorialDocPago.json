@@ -1,0 +1,902 @@
+[
+  {
+    "NDOC": 1,
+    "FECHA_HORA": "25/01/2021 11:31",
+    "ESTADOVAL": "monto mayor",
+    "ESTADOLABEL": "ut nisi a odio semper cursus. Integer mollis. Integer tincidunt",
+    "LOTE": "52125",
+    "ESTADO": "generado",
+    "USUARIO": "CadmanCooper"
+  },
+  {
+    "NDOC": 2,
+    "FECHA_HORA": "02/03/2021 13:56",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "tellus. Nunc lectus pede, ultrices a, auctor non, feugiat nec,",
+    "LOTE": "52126",
+    "ESTADO": "en revisión",
+    "USUARIO": "IanGriffin"
+  },
+  {
+    "NDOC": 3,
+    "FECHA_HORA": "27/03/2021 03:21",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "sapien molestie orci tincidunt adipiscing. Mauris molestie pharetra nibh. Aliquam",
+    "LOTE": "52129",
+    "ESTADO": "firma parcial",
+    "USUARIO": "HectorMalachi"
+  },
+  {
+    "NDOC": 4,
+    "FECHA_HORA": "04/01/2021 11:25",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "LOTE": "52127",
+    "ESTADO": "enviado",
+    "USUARIO": "ChadwickUriel"
+  },
+  {
+    "NDOC": 5,
+    "FECHA_HORA": "26/02/2021 06:20",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "Etiam bibendum fermentum metus. Aenean sed pede nec ante blandit",
+    "LOTE": "521210",
+    "ESTADO": "firma parcial",
+    "USUARIO": "ChandlerHerrod"
+  },
+  {
+    "NDOC": 6,
+    "FECHA_HORA": "28/01/2021 22:03",
+    "ESTADOVAL": "exclusión manual",
+    "ESTADOLABEL": "justo eu arcu. Morbi sit amet massa. Quisque porttitor eros",
+    "LOTE": "52122",
+    "ESTADO": "pendiente firma",
+    "USUARIO": "EricThor"
+  },
+  {
+    "NDOC": 7,
+    "FECHA_HORA": "25/03/2021 16:06",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "Nulla eget metus eu erat semper rutrum. Fusce dolor quam,",
+    "LOTE": "52125",
+    "ESTADO": "firma parcial",
+    "USUARIO": "RossMohammad"
+  },
+  {
+    "NDOC": 8,
+    "FECHA_HORA": "23/03/2021 19:33",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "Suspendisse tristique neque venenatis lacus. Etiam bibendum fermentum metus. Aenean",
+    "LOTE": "52123",
+    "ESTADO": "procesado",
+    "USUARIO": "AshtonTobias"
+  },
+  {
+    "NDOC": 9,
+    "FECHA_HORA": "21/03/2021 04:30",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "ligula. Aliquam erat volutpat. Nulla dignissim. Maecenas ornare egestas ligula.",
+    "LOTE": "52123",
+    "ESTADO": "cerrado",
+    "USUARIO": "NasimHarrison"
+  },
+  {
+    "NDOC": 10,
+    "FECHA_HORA": "07/01/2021 04:14",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "ornare lectus justo eu arcu. Morbi sit amet massa. Quisque",
+    "LOTE": "521210",
+    "ESTADO": "cerrado",
+    "USUARIO": "DamonChaim"
+  },
+  {
+    "NDOC": 11,
+    "FECHA_HORA": "28/01/2021 16:47",
+    "ESTADOVAL": "monto mayor",
+    "ESTADOLABEL": "rutrum urna, nec luctus felis purus ac tellus. Suspendisse sed",
+    "LOTE": "52124",
+    "ESTADO": "pendiente firma",
+    "USUARIO": "IgnatiusWarren"
+  },
+  {
+    "NDOC": 12,
+    "FECHA_HORA": "21/03/2021 12:07",
+    "ESTADOVAL": "monto mayor",
+    "ESTADOLABEL": "Donec non justo. Proin non massa non ante bibendum ullamcorper.",
+    "LOTE": "52128",
+    "ESTADO": "firmado",
+    "USUARIO": "JoshuaZahir"
+  },
+  {
+    "NDOC": 13,
+    "FECHA_HORA": "13/01/2021 05:33",
+    "ESTADOVAL": "exclusión manual",
+    "ESTADOLABEL": "felis, adipiscing fringilla, porttitor vulputate, posuere vulputate, lacus. Cras interdum.",
+    "LOTE": "52123",
+    "ESTADO": "firma parcial",
+    "USUARIO": "AxelTarik"
+  },
+  {
+    "NDOC": 14,
+    "FECHA_HORA": "02/01/2021 17:48",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "Cras eu tellus eu augue porttitor interdum. Sed auctor odio",
+    "LOTE": "52121",
+    "ESTADO": "pendiente firma",
+    "USUARIO": "JerryThor"
+  },
+  {
+    "NDOC": 15,
+    "FECHA_HORA": "18/02/2021 18:20",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "sed pede nec ante blandit viverra. Donec tempus, lorem fringilla",
+    "LOTE": "52121",
+    "ESTADO": "generado",
+    "USUARIO": "PorterDennis"
+  },
+  {
+    "NDOC": 16,
+    "FECHA_HORA": "12/04/2021 16:20",
+    "ESTADOVAL": "exclusión manual",
+    "ESTADOLABEL": "ac risus. Morbi metus. Vivamus euismod urna. Nullam lobortis quam",
+    "LOTE": "52125",
+    "ESTADO": "en revisión",
+    "USUARIO": "GrayTarik"
+  },
+  {
+    "NDOC": 17,
+    "FECHA_HORA": "13/01/2021 02:10",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "sem molestie sodales. Mauris blandit enim consequat purus. Maecenas libero",
+    "LOTE": "52127",
+    "ESTADO": "procesado",
+    "USUARIO": "EatonThane"
+  },
+  {
+    "NDOC": 18,
+    "FECHA_HORA": "04/02/2021 09:01",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "a, arcu. Sed et libero. Proin mi. Aliquam gravida mauris",
+    "LOTE": "52128",
+    "ESTADO": "generado",
+    "USUARIO": "PerryQuamar"
+  },
+  {
+    "NDOC": 19,
+    "FECHA_HORA": "04/02/2021 21:56",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "Proin non massa non ante bibendum ullamcorper. Duis cursus, diam",
+    "LOTE": "52125",
+    "ESTADO": "firmado",
+    "USUARIO": "PriceHashim"
+  },
+  {
+    "NDOC": 20,
+    "FECHA_HORA": "18/01/2021 03:55",
+    "ESTADOVAL": "monto mayor",
+    "ESTADOLABEL": "aliquet lobortis, nisi nibh lacinia orci, consectetuer euismod est arcu",
+    "LOTE": "521210",
+    "ESTADO": "procesado",
+    "USUARIO": "AbelDale"
+  },
+  {
+    "NDOC": 21,
+    "FECHA_HORA": "16/03/2021 05:25",
+    "ESTADOVAL": "exclusión manual",
+    "ESTADOLABEL": "sodales purus, in molestie tortor nibh sit amet orci. Ut",
+    "LOTE": "52121",
+    "ESTADO": "generado",
+    "USUARIO": "OliverCalvin"
+  },
+  {
+    "NDOC": 22,
+    "FECHA_HORA": "17/02/2021 08:26",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "tortor nibh sit amet orci. Ut sagittis lobortis mauris. Suspendisse",
+    "LOTE": "52122",
+    "ESTADO": "cerrado",
+    "USUARIO": "WadeCameron"
+  },
+  {
+    "NDOC": 23,
+    "FECHA_HORA": "01/04/2021 05:16",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "quis, pede. Praesent eu dui. Cum sociis natoque penatibus et",
+    "LOTE": "52122",
+    "ESTADO": "por transferir",
+    "USUARIO": "JinNigel"
+  },
+  {
+    "NDOC": 24,
+    "FECHA_HORA": "01/02/2021 05:12",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "ipsum nunc id enim. Curabitur massa. Vestibulum accumsan neque et",
+    "LOTE": "52128",
+    "ESTADO": "cerrado",
+    "USUARIO": "WarrenRaymond"
+  },
+  {
+    "NDOC": 25,
+    "FECHA_HORA": "09/04/2021 12:14",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "libero. Integer in magna. Phasellus dolor elit, pellentesque a, facilisis",
+    "LOTE": "52129",
+    "ESTADO": "por transferir",
+    "USUARIO": "JerryMason"
+  },
+  {
+    "NDOC": 26,
+    "FECHA_HORA": "08/02/2021 11:44",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "tincidunt tempus risus. Donec egestas. Duis ac arcu. Nunc mauris.",
+    "LOTE": "52121",
+    "ESTADO": "firmado",
+    "USUARIO": "MalikNigel"
+  },
+  {
+    "NDOC": 27,
+    "FECHA_HORA": "03/03/2021 23:07",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "egestas, urna justo faucibus lectus, a sollicitudin orci sem eget",
+    "LOTE": "52127",
+    "ESTADO": "cerrado",
+    "USUARIO": "NeilDuncan"
+  },
+  {
+    "NDOC": 28,
+    "FECHA_HORA": "13/04/2021 11:14",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "LOTE": "52128",
+    "ESTADO": "por transferir",
+    "USUARIO": "GregoryKelly"
+  },
+  {
+    "NDOC": 29,
+    "FECHA_HORA": "07/02/2021 16:31",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "lorem lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed",
+    "LOTE": "52129",
+    "ESTADO": "procesado",
+    "USUARIO": "KeatonFulton"
+  },
+  {
+    "NDOC": 30,
+    "FECHA_HORA": "13/03/2021 07:40",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "est, congue a, aliquet vel, vulputate eu, odio. Phasellus at",
+    "LOTE": "52129",
+    "ESTADO": "por transferir",
+    "USUARIO": "ByronSawyer"
+  },
+  {
+    "NDOC": 31,
+    "FECHA_HORA": "05/03/2021 21:25",
+    "ESTADOVAL": "exclusión manual",
+    "ESTADOLABEL": "est, mollis non, cursus non, egestas a, dui. Cras pellentesque.",
+    "LOTE": "521210",
+    "ESTADO": "enviado",
+    "USUARIO": "JonahAmery"
+  },
+  {
+    "NDOC": 32,
+    "FECHA_HORA": "18/03/2021 05:15",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "tellus lorem eu metus. In lorem. Donec elementum, lorem ut",
+    "LOTE": "52123",
+    "ESTADO": "enviado",
+    "USUARIO": "RafaelMalcolm"
+  },
+  {
+    "NDOC": 33,
+    "FECHA_HORA": "26/02/2021 18:01",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "sagittis lobortis mauris. Suspendisse aliquet molestie tellus. Aenean egestas hendrerit",
+    "LOTE": "52128",
+    "ESTADO": "firmado",
+    "USUARIO": "UriahBrent"
+  },
+  {
+    "NDOC": 34,
+    "FECHA_HORA": "05/03/2021 16:27",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "vitae nibh. Donec est mauris, rhoncus id, mollis nec, cursus",
+    "LOTE": "52123",
+    "ESTADO": "firmado",
+    "USUARIO": "OliverNero"
+  },
+  {
+    "NDOC": 35,
+    "FECHA_HORA": "30/01/2021 02:47",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "aliquet, metus urna convallis erat, eget tincidunt dui augue eu",
+    "LOTE": "52127",
+    "ESTADO": "cerrado",
+    "USUARIO": "EzraLaith"
+  },
+  {
+    "NDOC": 36,
+    "FECHA_HORA": "03/04/2021 03:12",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "lacinia mattis. Integer eu lacus. Quisque imperdiet, erat nonummy ultricies",
+    "LOTE": "521210",
+    "ESTADO": "generado",
+    "USUARIO": "GiacomoJerome"
+  },
+  {
+    "NDOC": 37,
+    "FECHA_HORA": "09/01/2021 09:55",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "ut dolor dapibus gravida. Aliquam tincidunt, nunc ac mattis ornare,",
+    "LOTE": "52125",
+    "ESTADO": "firmado",
+    "USUARIO": "AdrianKirk"
+  },
+  {
+    "NDOC": 38,
+    "FECHA_HORA": "25/02/2021 23:22",
+    "ESTADOVAL": "exclusión manual",
+    "ESTADOLABEL": "consectetuer adipiscing elit. Etiam laoreet, libero et tristique pellentesque, tellus",
+    "LOTE": "52128",
+    "ESTADO": "firma parcial",
+    "USUARIO": "ClaytonFitzgerald"
+  },
+  {
+    "NDOC": 39,
+    "FECHA_HORA": "11/02/2021 03:00",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "Aenean sed pede nec ante blandit viverra. Donec tempus, lorem",
+    "LOTE": "52121",
+    "ESTADO": "por transferir",
+    "USUARIO": "MerrittAsher"
+  },
+  {
+    "NDOC": 40,
+    "FECHA_HORA": "01/01/2021 06:23",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "eu, odio. Phasellus at augue id ante dictum cursus. Nunc",
+    "LOTE": "52126",
+    "ESTADO": "procesado",
+    "USUARIO": "CaldwellJamal"
+  },
+  {
+    "NDOC": 41,
+    "FECHA_HORA": "24/03/2021 23:22",
+    "ESTADOVAL": "exclusión manual",
+    "ESTADOLABEL": "libero. Donec consectetuer mauris id sapien. Cras dolor dolor, tempus",
+    "LOTE": "52129",
+    "ESTADO": "firmado",
+    "USUARIO": "TimothyThaddeus"
+  },
+  {
+    "NDOC": 42,
+    "FECHA_HORA": "01/01/2021 06:25",
+    "ESTADOVAL": "monto mayor",
+    "ESTADOLABEL": "Aliquam vulputate ullamcorper magna. Sed eu eros. Nam consequat dolor",
+    "LOTE": "52129",
+    "ESTADO": "enviado",
+    "USUARIO": "DrewOleg"
+  },
+  {
+    "NDOC": 43,
+    "FECHA_HORA": "23/01/2021 09:59",
+    "ESTADOVAL": "monto mayor",
+    "ESTADOLABEL": "ligula elit, pretium et, rutrum non, hendrerit id, ante. Nunc",
+    "LOTE": "52125",
+    "ESTADO": "generado",
+    "USUARIO": "WadeByron"
+  },
+  {
+    "NDOC": 44,
+    "FECHA_HORA": "02/03/2021 21:41",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "eget varius ultrices, mauris ipsum porta elit, a feugiat tellus",
+    "LOTE": "52124",
+    "ESTADO": "por transferir",
+    "USUARIO": "ArdenZahir"
+  },
+  {
+    "NDOC": 45,
+    "FECHA_HORA": "09/02/2021 10:14",
+    "ESTADOVAL": "exclusión manual",
+    "ESTADOLABEL": "ante lectus convallis est, vitae sodales nisi magna sed dui.",
+    "LOTE": "52122",
+    "ESTADO": "enviado",
+    "USUARIO": "ReeceGraham"
+  },
+  {
+    "NDOC": 46,
+    "FECHA_HORA": "11/01/2021 00:46",
+    "ESTADOVAL": "exclusión manual",
+    "ESTADOLABEL": "vel, faucibus id, libero. Donec consectetuer mauris id sapien. Cras",
+    "LOTE": "52123",
+    "ESTADO": "pendiente firma",
+    "USUARIO": "BorisBurton"
+  },
+  {
+    "NDOC": 47,
+    "FECHA_HORA": "19/01/2021 06:33",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "Curae; Phasellus ornare. Fusce mollis. Duis sit amet diam eu",
+    "LOTE": "52122",
+    "ESTADO": "firma parcial",
+    "USUARIO": "ArsenioEthan"
+  },
+  {
+    "NDOC": 48,
+    "FECHA_HORA": "18/02/2021 23:54",
+    "ESTADOVAL": "exclusión manual",
+    "ESTADOLABEL": "non justo. Proin non massa non ante bibendum ullamcorper. Duis",
+    "LOTE": "52127",
+    "ESTADO": "cerrado",
+    "USUARIO": "WyattArmando"
+  },
+  {
+    "NDOC": 49,
+    "FECHA_HORA": "04/02/2021 14:42",
+    "ESTADOVAL": "monto mayor",
+    "ESTADOLABEL": "Mauris nulla. Integer urna. Vivamus molestie dapibus ligula. Aliquam erat",
+    "LOTE": "52125",
+    "ESTADO": "pendiente firma",
+    "USUARIO": "KeefeMoses"
+  },
+  {
+    "NDOC": 50,
+    "FECHA_HORA": "13/02/2021 02:39",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "mi felis, adipiscing fringilla, porttitor vulputate, posuere vulputate, lacus. Cras",
+    "LOTE": "52122",
+    "ESTADO": "en revisión",
+    "USUARIO": "MalikDorian"
+  },
+  {
+    "NDOC": 51,
+    "FECHA_HORA": "13/01/2021 23:44",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "non dui nec urna suscipit nonummy. Fusce fermentum fermentum arcu.",
+    "LOTE": "52126",
+    "ESTADO": "generado",
+    "USUARIO": "JonasHector"
+  },
+  {
+    "NDOC": 52,
+    "FECHA_HORA": "11/02/2021 18:16",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie.",
+    "LOTE": "52122",
+    "ESTADO": "en revisión",
+    "USUARIO": "LamarWyatt"
+  },
+  {
+    "NDOC": 53,
+    "FECHA_HORA": "05/02/2021 06:53",
+    "ESTADOVAL": "exclusión manual",
+    "ESTADOLABEL": "Nunc ullamcorper, velit in aliquet lobortis, nisi nibh lacinia orci,",
+    "LOTE": "52127",
+    "ESTADO": "pendiente firma",
+    "USUARIO": "PrescottChristopher"
+  },
+  {
+    "NDOC": 54,
+    "FECHA_HORA": "27/01/2021 02:43",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "est tempor bibendum. Donec felis orci, adipiscing non, luctus sit",
+    "LOTE": "52126",
+    "ESTADO": "enviado",
+    "USUARIO": "WylieMacon"
+  },
+  {
+    "NDOC": 55,
+    "FECHA_HORA": "06/04/2021 05:40",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "Cras sed leo. Cras vehicula aliquet libero. Integer in magna.",
+    "LOTE": "52122",
+    "ESTADO": "en revisión",
+    "USUARIO": "ChesterAshton"
+  },
+  {
+    "NDOC": 56,
+    "FECHA_HORA": "11/03/2021 08:33",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "lectus quis massa. Mauris vestibulum, neque sed dictum eleifend, nunc",
+    "LOTE": "52121",
+    "ESTADO": "enviado",
+    "USUARIO": "JermaineVance"
+  },
+  {
+    "NDOC": 57,
+    "FECHA_HORA": "29/03/2021 01:48",
+    "ESTADOVAL": "monto mayor",
+    "ESTADOLABEL": "Donec est. Nunc ullamcorper, velit in aliquet lobortis, nisi nibh",
+    "LOTE": "52128",
+    "ESTADO": "en revisión",
+    "USUARIO": "MerrittRonan"
+  },
+  {
+    "NDOC": 58,
+    "FECHA_HORA": "06/03/2021 01:34",
+    "ESTADOVAL": "monto mayor",
+    "ESTADOLABEL": "vehicula et, rutrum eu, ultrices sit amet, risus. Donec nibh",
+    "LOTE": "52122",
+    "ESTADO": "generado",
+    "USUARIO": "BrennanDustin"
+  },
+  {
+    "NDOC": 59,
+    "FECHA_HORA": "11/02/2021 00:31",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "semper pretium neque. Morbi quis urna. Nunc quis arcu vel",
+    "LOTE": "52129",
+    "ESTADO": "firma parcial",
+    "USUARIO": "PrestonChester"
+  },
+  {
+    "NDOC": 60,
+    "FECHA_HORA": "13/02/2021 10:03",
+    "ESTADOVAL": "monto mayor",
+    "ESTADOLABEL": "Etiam gravida molestie arcu. Sed eu nibh vulputate mauris sagittis",
+    "LOTE": "52126",
+    "ESTADO": "firma parcial",
+    "USUARIO": "CameronRudyard"
+  },
+  {
+    "NDOC": 61,
+    "FECHA_HORA": "11/01/2021 16:32",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "luctus. Curabitur egestas nunc sed libero. Proin sed turpis nec",
+    "LOTE": "52129",
+    "ESTADO": "pendiente firma",
+    "USUARIO": "JinLouis"
+  },
+  {
+    "NDOC": 62,
+    "FECHA_HORA": "07/02/2021 22:01",
+    "ESTADOVAL": "monto mayor",
+    "ESTADOLABEL": "a feugiat tellus lorem eu metus. In lorem. Donec elementum,",
+    "LOTE": "52123",
+    "ESTADO": "enviado",
+    "USUARIO": "VaughanColt"
+  },
+  {
+    "NDOC": 63,
+    "FECHA_HORA": "18/01/2021 04:23",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "Pellentesque ut ipsum ac mi eleifend egestas. Sed pharetra, felis",
+    "LOTE": "52125",
+    "ESTADO": "cerrado",
+    "USUARIO": "MaxwellAllistair"
+  },
+  {
+    "NDOC": 64,
+    "FECHA_HORA": "03/03/2021 00:54",
+    "ESTADOVAL": "exclusión manual",
+    "ESTADOLABEL": "auctor, velit eget laoreet posuere, enim nisl elementum purus, accumsan",
+    "LOTE": "52121",
+    "ESTADO": "enviado",
+    "USUARIO": "ElijahMarsden"
+  },
+  {
+    "NDOC": 65,
+    "FECHA_HORA": "16/02/2021 17:08",
+    "ESTADOVAL": "monto mayor",
+    "ESTADOLABEL": "eu, euismod ac, fermentum vel, mauris. Integer sem elit, pharetra",
+    "LOTE": "52122",
+    "ESTADO": "procesado",
+    "USUARIO": "EmmanuelRoss"
+  },
+  {
+    "NDOC": 66,
+    "FECHA_HORA": "02/03/2021 12:25",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "mi fringilla mi lacinia mattis. Integer eu lacus. Quisque imperdiet,",
+    "LOTE": "52124",
+    "ESTADO": "por transferir",
+    "USUARIO": "LionelIsaiah"
+  },
+  {
+    "NDOC": 67,
+    "FECHA_HORA": "04/01/2021 05:03",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "ipsum. Donec sollicitudin adipiscing ligula. Aenean gravida nunc sed pede.",
+    "LOTE": "52121",
+    "ESTADO": "enviado",
+    "USUARIO": "JordanDustin"
+  },
+  {
+    "NDOC": 68,
+    "FECHA_HORA": "17/03/2021 10:00",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "facilisis facilisis, magna tellus faucibus leo, in lobortis tellus justo",
+    "LOTE": "52126",
+    "ESTADO": "pendiente firma",
+    "USUARIO": "NissimGareth"
+  },
+  {
+    "NDOC": 69,
+    "FECHA_HORA": "12/02/2021 12:53",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "Vivamus nisi. Mauris nulla. Integer urna. Vivamus molestie dapibus ligula.",
+    "LOTE": "52126",
+    "ESTADO": "firma parcial",
+    "USUARIO": "AmalRichard"
+  },
+  {
+    "NDOC": 70,
+    "FECHA_HORA": "16/01/2021 13:32",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "in, tempus eu, ligula. Aenean euismod mauris eu elit. Nulla",
+    "LOTE": "52126",
+    "ESTADO": "en revisión",
+    "USUARIO": "BerkAbraham"
+  },
+  {
+    "NDOC": 71,
+    "FECHA_HORA": "20/02/2021 09:25",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "lobortis quis, pede. Suspendisse dui. Fusce diam nunc, ullamcorper eu,",
+    "LOTE": "521210",
+    "ESTADO": "procesado",
+    "USUARIO": "GiacomoKeefe"
+  },
+  {
+    "NDOC": 72,
+    "FECHA_HORA": "13/01/2021 12:26",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "elit, pellentesque a, facilisis non, bibendum sed, est. Nunc laoreet",
+    "LOTE": "52121",
+    "ESTADO": "firmado",
+    "USUARIO": "JasonKamal"
+  },
+  {
+    "NDOC": 73,
+    "FECHA_HORA": "02/03/2021 01:28",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "erat volutpat. Nulla facilisis. Suspendisse commodo tincidunt nibh. Phasellus nulla.",
+    "LOTE": "52128",
+    "ESTADO": "pendiente firma",
+    "USUARIO": "RaymondCole"
+  },
+  {
+    "NDOC": 74,
+    "FECHA_HORA": "24/01/2021 18:11",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "dictum magna. Ut tincidunt orci quis lectus. Nullam suscipit, est",
+    "LOTE": "52127",
+    "ESTADO": "cerrado",
+    "USUARIO": "ZephEzekiel"
+  },
+  {
+    "NDOC": 75,
+    "FECHA_HORA": "03/03/2021 05:20",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "nec, cursus a, enim. Suspendisse aliquet, sem ut cursus luctus,",
+    "LOTE": "521210",
+    "ESTADO": "firma parcial",
+    "USUARIO": "LevConan"
+  },
+  {
+    "NDOC": 76,
+    "FECHA_HORA": "12/02/2021 15:38",
+    "ESTADOVAL": "exclusión manual",
+    "ESTADOLABEL": "eros. Proin ultrices. Duis volutpat nunc sit amet metus. Aliquam",
+    "LOTE": "52121",
+    "ESTADO": "cerrado",
+    "USUARIO": "CodyDamon"
+  },
+  {
+    "NDOC": 77,
+    "FECHA_HORA": "06/03/2021 20:24",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed",
+    "LOTE": "52128",
+    "ESTADO": "enviado",
+    "USUARIO": "OwenDylan"
+  },
+  {
+    "NDOC": 78,
+    "FECHA_HORA": "12/02/2021 07:45",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "enim, sit amet ornare lectus justo eu arcu. Morbi sit",
+    "LOTE": "52121",
+    "ESTADO": "firmado",
+    "USUARIO": "MichaelJeremy"
+  },
+  {
+    "NDOC": 79,
+    "FECHA_HORA": "28/02/2021 21:23",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "leo. Vivamus nibh dolor, nonummy ac, feugiat non, lobortis quis,",
+    "LOTE": "52126",
+    "ESTADO": "firmado",
+    "USUARIO": "DorianDolan"
+  },
+  {
+    "NDOC": 80,
+    "FECHA_HORA": "10/01/2021 03:59",
+    "ESTADOVAL": "exclusión manual",
+    "ESTADOLABEL": "fermentum convallis ligula. Donec luctus aliquet odio. Etiam ligula tortor,",
+    "LOTE": "52128",
+    "ESTADO": "cerrado",
+    "USUARIO": "SamuelSteel"
+  },
+  {
+    "NDOC": 81,
+    "FECHA_HORA": "27/02/2021 07:52",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "sodales purus, in molestie tortor nibh sit amet orci. Ut",
+    "LOTE": "52121",
+    "ESTADO": "generado",
+    "USUARIO": "MaxwellDenton"
+  },
+  {
+    "NDOC": 82,
+    "FECHA_HORA": "12/04/2021 11:30",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "non leo. Vivamus nibh dolor, nonummy ac, feugiat non, lobortis",
+    "LOTE": "52127",
+    "ESTADO": "firma parcial",
+    "USUARIO": "KeeganTad"
+  },
+  {
+    "NDOC": 83,
+    "FECHA_HORA": "10/04/2021 15:35",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "eleifend non, dapibus rutrum, justo. Praesent luctus. Curabitur egestas nunc",
+    "LOTE": "52127",
+    "ESTADO": "firmado",
+    "USUARIO": "KaneRaphael"
+  },
+  {
+    "NDOC": 84,
+    "FECHA_HORA": "23/03/2021 02:27",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "eget tincidunt dui augue eu tellus. Phasellus elit pede, malesuada",
+    "LOTE": "52121",
+    "ESTADO": "firmado",
+    "USUARIO": "CruzHarding"
+  },
+  {
+    "NDOC": 85,
+    "FECHA_HORA": "13/02/2021 06:02",
+    "ESTADOVAL": "exclusión manual",
+    "ESTADOLABEL": "Fusce mollis. Duis sit amet diam eu dolor egestas rhoncus.",
+    "LOTE": "52124",
+    "ESTADO": "firmado",
+    "USUARIO": "ColeConnor"
+  },
+  {
+    "NDOC": 86,
+    "FECHA_HORA": "11/04/2021 16:12",
+    "ESTADOVAL": "exclusión manual",
+    "ESTADOLABEL": "scelerisque sed, sapien. Nunc pulvinar arcu et pede. Nunc sed",
+    "LOTE": "521210",
+    "ESTADO": "generado",
+    "USUARIO": "AlvinKasimir"
+  },
+  {
+    "NDOC": 87,
+    "FECHA_HORA": "18/01/2021 09:32",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "dapibus ligula. Aliquam erat volutpat. Nulla dignissim. Maecenas ornare egestas",
+    "LOTE": "521210",
+    "ESTADO": "cerrado",
+    "USUARIO": "DorianConnor"
+  },
+  {
+    "NDOC": 88,
+    "FECHA_HORA": "06/01/2021 12:42",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "ipsum ac mi eleifend egestas. Sed pharetra, felis eget varius",
+    "LOTE": "52127",
+    "ESTADO": "procesado",
+    "USUARIO": "ZeusYardley"
+  },
+  {
+    "NDOC": 89,
+    "FECHA_HORA": "23/01/2021 04:56",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "mi lacinia mattis. Integer eu lacus. Quisque imperdiet, erat nonummy",
+    "LOTE": "52129",
+    "ESTADO": "pendiente firma",
+    "USUARIO": "BrendanSalvador"
+  },
+  {
+    "NDOC": 90,
+    "FECHA_HORA": "19/02/2021 13:26",
+    "ESTADOVAL": "monto mayor",
+    "ESTADOLABEL": "libero lacus, varius et, euismod et, commodo at, libero. Morbi",
+    "LOTE": "52122",
+    "ESTADO": "cerrado",
+    "USUARIO": "XenosBeau"
+  },
+  {
+    "NDOC": 91,
+    "FECHA_HORA": "09/03/2021 17:51",
+    "ESTADOVAL": "monto mayor",
+    "ESTADOLABEL": "nunc id enim. Curabitur massa. Vestibulum accumsan neque et nunc.",
+    "LOTE": "52124",
+    "ESTADO": "cerrado",
+    "USUARIO": "BradleyPatrick"
+  },
+  {
+    "NDOC": 92,
+    "FECHA_HORA": "13/02/2021 14:37",
+    "ESTADOVAL": "datos incorrectos",
+    "ESTADOLABEL": "hendrerit a, arcu. Sed et libero. Proin mi. Aliquam gravida",
+    "LOTE": "52129",
+    "ESTADO": "cerrado",
+    "USUARIO": "EmeryAaron"
+  },
+  {
+    "NDOC": 93,
+    "FECHA_HORA": "06/04/2021 21:42",
+    "ESTADOVAL": "monto mayor",
+    "ESTADOLABEL": "vitae risus. Duis a mi fringilla mi lacinia mattis. Integer",
+    "LOTE": "52128",
+    "ESTADO": "firmado",
+    "USUARIO": "FerrisPaul"
+  },
+  {
+    "NDOC": 94,
+    "FECHA_HORA": "08/02/2021 10:52",
+    "ESTADOVAL": "exclusión manual",
+    "ESTADOLABEL": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+    "LOTE": "52121",
+    "ESTADO": "cerrado",
+    "USUARIO": "PriceDavid"
+  },
+  {
+    "NDOC": 95,
+    "FECHA_HORA": "21/01/2021 22:27",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "est, vitae sodales nisi magna sed dui. Fusce aliquam, enim",
+    "LOTE": "521210",
+    "ESTADO": "pendiente firma",
+    "USUARIO": "PhillipGray"
+  },
+  {
+    "NDOC": 96,
+    "FECHA_HORA": "02/04/2021 23:08",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "pulvinar arcu et pede. Nunc sed orci lobortis augue scelerisque",
+    "LOTE": "52127",
+    "ESTADO": "procesado",
+    "USUARIO": "OlegXavier"
+  },
+  {
+    "NDOC": 97,
+    "FECHA_HORA": "03/03/2021 02:40",
+    "ESTADOVAL": "validado",
+    "ESTADOLABEL": "Proin mi. Aliquam gravida mauris ut mi. Duis risus odio,",
+    "LOTE": "52121",
+    "ESTADO": "firmado",
+    "USUARIO": "YuliCaldwell"
+  },
+  {
+    "NDOC": 98,
+    "FECHA_HORA": "28/02/2021 04:40",
+    "ESTADOVAL": "monto mayor",
+    "ESTADOLABEL": "magna sed dui. Fusce aliquam, enim nec tempus scelerisque, lorem",
+    "LOTE": "52127",
+    "ESTADO": "generado",
+    "USUARIO": "BrentZeph"
+  },
+  {
+    "NDOC": 99,
+    "FECHA_HORA": "26/02/2021 13:53",
+    "ESTADOVAL": "exclusión manual",
+    "ESTADOLABEL": "imperdiet, erat nonummy ultricies ornare, elit elit fermentum risus, at",
+    "LOTE": "52126",
+    "ESTADO": "por transferir",
+    "USUARIO": "RajahKeaton"
+  },
+  {
+    "NDOC": 100,
+    "FECHA_HORA": "27/03/2021 21:27",
+    "ESTADOVAL": "duplicidad",
+    "ESTADOLABEL": "et pede. Nunc sed orci lobortis augue scelerisque mollis. Phasellus",
+    "LOTE": "521210",
+    "ESTADO": "enviado",
+    "USUARIO": "DeclanChaney"
+  }
+]

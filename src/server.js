@@ -10,6 +10,7 @@ const Routes3_Consultas = require('./routes/3_Consultas')
 const Routes4_Historial = require('./routes/4_Historial')
 const Routes5_Conciliacion = require('./routes/5_Conciliacion')
 const Routes6_DetalleConciliacion = require('./routes/6_DetalleConciliacion')
+const Routes7_ConsultaSunat = require('./routes/7_ConsultaSunat');
 
 app.use(express.json())
 app.get('/', (req, res) => res.send('Hello World'))
@@ -20,5 +21,6 @@ app.use('/Consultas', Routes3_Consultas)
 app.use('/Historial', Routes4_Historial)
 app.use('/Conciliacion', Routes5_Conciliacion)
 app.use('/DetalleConciliacion', Routes6_DetalleConciliacion)
+app.use('/ConsultaSunat', Routes7_ConsultaSunat)
 
 app.listen(PORT, () => console.log(`Server started on http://localhost:${PORT}`))

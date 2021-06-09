@@ -1,0 +1,189 @@
+[
+  {
+    "sistOrigen": "A/X",
+    "grupoPago": "CLIE SALUD",
+    "tipoObligacion": [
+      {
+        "name": "PAGO_REEMB",
+        "text": "PAGO REEMB"
+      },
+      {
+        "name": "PAGO_DEVO_REEMB",
+        "text": "PAGO REVO REEMB"
+      },
+      {
+        "name": "PAGO_REEMB2",
+        "text": "PAGO REEMB 2"
+      },
+      {
+        "name": "PAGO_REEMB",
+        "text": "PAGO REEMB"
+      },
+      {
+        "name": "PAGO_DEVO_REEMB",
+        "text": "PAGO REVO REEMB"
+      },
+      {
+        "name": "PAGO_REEMB2",
+        "text": "PAGO REEMB 2"
+      }
+    ],
+    "tipoBeneficiario": "CLIENTE",
+    "riesgo_agrupador": [
+      {
+        "name": "RA3",
+        "unidad": 2,
+        "total": 12
+      },
+      {
+        "name": "RA4",
+        "unidad": 2,
+        "total": 12
+      },
+      {
+        "name": "RA00",
+        "unidad": 2,
+        "total": 12
+      }
+    ]
+  },
+  {
+    "sistOrigen": "A/X",
+    "grupoPago": "CLIE-VIDA",
+    "tipoObligacion": [
+      {
+        "name": "TIPO_OBLI1",
+        "text": "TIPO OBLI 1"
+      },
+      {
+        "name": "TIPO_OBLI2",
+        "text": "TIPO OBLI 2"
+      },
+      {
+        "name": "TIPO_OBLI3",
+        "text": "TIPO OBLI 3"
+      },
+      {
+        "name": "TIPO_OBLI4",
+        "text": "TIPO OBLI 4"
+      }
+    ],
+    "tipoBeneficiario": "CLIENTE",
+    "riesgo_agrupador": [
+      {
+        "name": "RA9",
+        "unidad": 2,
+        "total": 12
+      },
+      {
+        "name": "RA88",
+        "unidad": 2,
+        "total": 12
+      }
+    ]
+  },
+  {
+    "sistOrigen": "A/X",
+    "grupoPago": "CLIE-RRVV",
+    "tipoObligacion": [
+      {
+        "name": "TIPO_OBLI4",
+        "text": "TIPO OBLI 4"
+      },
+      {
+        "name": "TIPO_OBLI5",
+        "text": "TIPO OBLI 5"
+      },
+      {
+        "name": "TIPO_OBLI6",
+        "text": "TIPO OBLI 6"
+      },
+      {
+        "name": "TIPO_OBLI7",
+        "text": "TIPO OBLI 7"
+      },
+      {
+        "name": "TIPO_OBLI9",
+        "text": "TIPO OBLI 9"
+      }
+    ],
+    "tipoBeneficiario": "CLIENTE",
+    "riesgo_agrupador": [
+      {
+        "name": "RA3",
+        "unidad": 2,
+        "total": 12
+      },
+      {
+        "name": "RA4",
+        "unidad": 2,
+        "total": 12
+      }
+    ]
+  },
+  {
+    "sistOrigen": "A/X",
+    "grupoPago": "CLIE-VARIOS",
+    "tipoObligacion": [],
+    "tipoBeneficiario": "CLIENTE",
+    "riesgo_agrupador": [
+      {
+        "name": "NUEVO PRODUCTO",
+        "unidad": 12,
+        "total": 12
+      }
+    ]
+  },
+  {
+    "sistOrigen": "A/X",
+    "grupoPago": "PROV-SALUD",
+    "tipoObligacion": [],
+    "tipoBeneficiario": "PROVEEDOR",
+    "riesgo_agrupador": [
+      {
+        "name": "SALUD",
+        "unidad": 12,
+        "total": 12
+      }
+    ]
+  },
+  {
+    "sistOrigen": "A/X",
+    "grupoPago": "PROV-VARIOS",
+    "tipoObligacion": [],
+    "tipoBeneficiario": "PROVEEDOR  ",
+    "riesgo_agrupador": [
+      {
+        "name": "NUEVO PRODUCTO",
+        "unidad": 9,
+        "total": 12
+      }
+    ]
+  },
+  {
+    "sistOrigen": "A/X",
+    "grupoPago": "CLIE-VARIOS",
+    "tipoObligacion": [],
+    "tipoBeneficiario": "CLIENTE",
+    "riesgo_agrupador": [
+      {
+        "name": "NUEVO PRODUCTO",
+        "unidad": 3,
+        "total": 12
+      }
+    ]
+  },
+  {
+    "sistOrigen": "ERP",
+    "grupoPago": "PROVEEDORES SINIESTROS",
+    "tipoObligacion": [],
+    "tipoBeneficiario": "PROVEEDOR",
+    "riesgo_agrupador": [
+      {
+        "name": "NUEVO PRODUCTO",
+        "unidad": 5,
+        "total": 12
+      }
+    ]
+  }
+]
